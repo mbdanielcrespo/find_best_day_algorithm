@@ -73,6 +73,6 @@ def find_best_day(entries):
 
 
 if __name__ == "__main__":
-    entries = parse_input("input.txt")
+    entries = parse_input("input1.txt")
     best_day = find_best_day(entries)
     visualize_timeline(entries, best_day)
