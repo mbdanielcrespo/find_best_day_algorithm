@@ -29,7 +29,7 @@ The main objective is to **find the best day** for public transport operations o
 ## Example Image Sections
 
 ### Graph 1: Wide Variety of Transport Options
-![Transport Timeline 1]([path/to/transport_timeline_1.png](https://github.com/mbdanielcrespo/find_best_day_algorithm/blob/main/images/Screenshot%20from%202025-02-19%2010-13-01.png) "Transport Timeline 1")
+![Transport Timeline 1](https://github.com/mbdanielcrespo/find_best_day_algorithm/blob/main/images/Screenshot%20from%202025-02-19%2010-13-01.png "Transport Timeline 1")
 
 **Description:**
 This chart depicts a broad range of whimsical and real transport methods over time, labeled on the vertical axis. The red dashed line indicates a key date or threshold relevant to the algorithm.
